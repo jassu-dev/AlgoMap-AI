@@ -1,0 +1,5 @@
+{
+  "name": "AlgoMap AI",
+  "description": "A powerful desktop application for visualizing and solving DSA problems with AI-generated flowcharts and complexity analysis.",
+  "requestFramePermissions": []
+}
